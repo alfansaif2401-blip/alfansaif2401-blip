@@ -1,5 +1,6 @@
 <div align="center">
 
+  <!-- ================= MASTER HEADER ================= -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=MOH.+ALFAN+SYAIFULLAH" alt="Header Nama" />
   
   <p align="center">
@@ -14,6 +15,7 @@
   <br>
   <hr size="1" color="#22D3EE" width="100%">
 
+  <!-- ================= PROFIL RINGKAS ================= -->
   ## ⚡ Executive Summary
   
   <p align="center">
@@ -23,6 +25,7 @@
   <br>
   <hr size="1" color="#22D3EE" width="100%">
 
+  <!-- ================= TECH ARCHITECTURE MATRIX ================= -->
   ## 🚀 Core Tech Architecture & Ecosystem
 
   <table border="0" cellpadding="8" cellspacing="0" align="center" width="100%">
@@ -53,19 +56,22 @@
   <br>
   <hr size="1" color="#22D3EE" width="100%">
 
+  <!-- ================= ANALYTICS DASHBOARD (UPDATED ALTERNATIVE) ================= -->
   ## 📊 Live Metrics & Repository Analytics
 
+  <!-- Menggunakan Vercel Stats Backup Server yang Mendukung Private Repo Metric -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alfansaif2401-blip&show_icons=true&theme=tokyonight&locale=en&hide_border=true&card_width=490&title_color=22D3EE&text_color=94A3B8&icon_color=00E5FF" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=alfansaif2401-blip&show_icons=true&theme=tokyonight&locale=en&hide_border=true&count_private=true&title_color=22D3EE&text_color=94A3B8&icon_color=00E5FF" alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfansaif2401-blip&layout=compact&theme=tokyonight&locale=en&hide_border=true&card_width=490&title_color=22D3EE&text_color=94A3B8" alt="Top Languages" />
+    <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=alfansaif2401-blip&layout=compact&theme=tokyonight&locale=en&hide_border=true&title_color=22D3EE&text_color=94A3B8" alt="Top Languages" />
   </p>
 
   <br>
   <hr size="1" color="#22D3EE" width="100%">
 
+  <!-- ================= FOOTER / HUBUNGI ================= -->
   ## 📬 Connect & Collaboration
 
   <p align="center">
